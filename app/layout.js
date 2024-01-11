@@ -1,4 +1,5 @@
 import { Inter } from 'next/font/google'
+import 'bootstrap/dist/css/bootstrap.css'
 import Link from 'next/link'
 import './globals.css'
 import Navbar from '../components/Navbar'
